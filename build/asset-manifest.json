@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c74b101.css",
-    "main.js": "/static/js/main.bb1f0b74.js",
+    "main.css": "/static/css/main.20c0209c.css",
+    "main.js": "/static/js/main.fb475902.js",
     "reactPlayerYouTube.js": "/static/js/reactPlayerYouTube.fcbc5e43.chunk.js",
     "reactPlayerSoundCloud.js": "/static/js/reactPlayerSoundCloud.06422582.chunk.js",
     "reactPlayerVimeo.js": "/static/js/reactPlayerVimeo.0cad9c7a.chunk.js",
@@ -20,7 +20,6 @@
     "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
     "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
     "static/media/labimage-transformed.jpeg": "/static/media/labimage-transformed.1d9f54d86f3efaacd07a.jpeg",
-    "static/media/Mediamodifier-Design.svg": "/static/media/Mediamodifier-Design.70da0598a5ab64bfa1c2.svg",
     "static/media/joinnow.jpeg": "/static/media/joinnow.9251293558f5f657e47a.jpeg",
     "static/media/pg.png": "/static/media/pg.e2151b9c308176759e90.png",
     "static/media/assesment.webp": "/static/media/assesment.6df73eba24083ff23b59.webp",
@@ -42,8 +41,8 @@
     "static/media/icon-reply.svg": "/static/media/icon-reply.bfb4589d45cd96abd45e3b82f7e7bbc6.svg",
     "static/media/icon-minus.svg": "/static/media/icon-minus.4aa6933cb1575b3c54fa67d84a61efaf.svg",
     "static/media/icon-delete.svg": "/static/media/icon-delete.86cedbf2e37529f9c8f1f744254059b0.svg",
-    "main.4c74b101.css.map": "/static/css/main.4c74b101.css.map",
-    "main.bb1f0b74.js.map": "/static/js/main.bb1f0b74.js.map",
+    "main.20c0209c.css.map": "/static/css/main.20c0209c.css.map",
+    "main.fb475902.js.map": "/static/js/main.fb475902.js.map",
     "reactPlayerYouTube.fcbc5e43.chunk.js.map": "/static/js/reactPlayerYouTube.fcbc5e43.chunk.js.map",
     "reactPlayerSoundCloud.06422582.chunk.js.map": "/static/js/reactPlayerSoundCloud.06422582.chunk.js.map",
     "reactPlayerVimeo.0cad9c7a.chunk.js.map": "/static/js/reactPlayerVimeo.0cad9c7a.chunk.js.map",
@@ -59,7 +58,7 @@
     "reactPlayerPreview.d762ba35.chunk.js.map": "/static/js/reactPlayerPreview.d762ba35.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c74b101.css",
-    "static/js/main.bb1f0b74.js"
+    "static/css/main.20c0209c.css",
+    "static/js/main.fb475902.js"
   ]
 }
